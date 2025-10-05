@@ -1,0 +1,17 @@
+title: Oyunskoru Docs
+theme: jekyll-theme-primer
+markdown: kramdown
+plugins:
+  - jekyll-seo-tag
+  - jekyll-readme-index
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - assets
+exclude:
+  - node_modules
+  - vendor
+
+
